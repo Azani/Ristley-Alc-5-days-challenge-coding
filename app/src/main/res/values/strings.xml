@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ristley ALC 5 Day of Challenge Coding</string>
+    <string name="Track">Android</string>
+    <string name="Slack">\@ristleyndurya</string>
+    <string name="Phone">+254723734474</string>
+    <string name="Name">Ristley Nyimiri Ndurya</string>
+    <string name="Email">nyimiri@gmail.com</string>
+    <string name="Country">Kenya</string>
+    <string name="Welcome">Welcome to ALC 4.0</string>
+    <string name="About">ABOUT ALC</string>
+    <string name="myprofile">MY PROFILE</string>
+</resources>
